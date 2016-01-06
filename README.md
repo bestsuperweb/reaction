@@ -25,7 +25,7 @@ cd reaction && git checkout master # default branch is development
 ./reaction
 ```
 
-Additional installation options are in the [developer documentation](https://github.com/reactioncommerce/reaction/blob/development/docs/developer/installation.md).
+Additional installation options are in the [developer documentation](https://github.com/hamidsardar/reaction/blob/development/docs/developer/installation.md).
 
 _Note: When using a standalone MongoDB server, make sure you are using version 2.6 or later._
 
@@ -54,45 +54,45 @@ As with all development, some items are ahead of schedule, and some are not. Her
 
 For a high level review our roadmap, take a look at the vision page [Reaction Vision](http://reactioncommerce.com/vision)
 
-For grouping of development channels by feature see project milestones: [https://github.com/reactioncommerce/reaction/milestones](https://github.com/reactioncommerce/reaction/milestones)
+For grouping of development channels by feature see project milestones: [https://github.com/hamidsardar/reaction/milestones](https://github.com/hamidsardar/reaction/milestones)
 
 And finally for the kanban-esque, hardcore real time progress view, take a look our [waffle board](https://waffle.io/reactioncommerce/reaction)
 
 ## Developer Documentation
 [Getting started guide](http://blog.reactioncommerce.com/how-to-get-involved-with-reaction-commerce/)
 
-[Installation](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/installation.md)
+[Installation](https://github.com/hamidsardar/reaction/tree/development/docs/developer/installation.md)
 
-[Overview](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/overview.md)
+[Overview](https://github.com/hamidsardar/reaction/tree/development/docs/developer/overview.md)
 
-[Methods](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/methods.md)
+[Methods](https://github.com/hamidsardar/reaction/tree/development/docs/developer/methods.md)
 
-[Package Development](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/packages.md)
+[Package Development](https://github.com/hamidsardar/reaction/tree/development/docs/developer/packages.md)
 
-[Theme Development](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/themes.md)
+[Theme Development](https://github.com/hamidsardar/reaction/tree/development/docs/developer/themes.md)
 
-[i18n Translations](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/i18n.md)
+[i18n Translations](https://github.com/hamidsardar/reaction/tree/development/docs/developer/i18n.md)
 
-[Workflow](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/workflow.md)
+[Workflow](https://github.com/hamidsardar/reaction/tree/development/docs/developer/workflow.md)
 
-[Schemas](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/schema.md)
+[Schemas](https://github.com/hamidsardar/reaction/tree/development/docs/developer/schema.md)
 
-[Imports](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/import.md)
+[Imports](https://github.com/hamidsardar/reaction/tree/development/docs/developer/import.md)
 
-[Template Development](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/templates.md)
+[Template Development](https://github.com/hamidsardar/reaction/tree/development/docs/developer/templates.md)
 
-[Deploying](https://github.com/reactioncommerce/reaction/tree/development/docs/developer/deploying.md)
+[Deploying](https://github.com/hamidsardar/reaction/tree/development/docs/developer/deploying.md)
 
 ### Code Repositories
 Hey! Where's all the code!?
 
 Most of it is in now in the local `reaction/packages`.
 
-Additional packages are also on [Atmosphere](https://atmospherejs.com/?q=reaction) and [GitHub](https://github.com/reactioncommerce/).
+Additional packages are also on [Atmosphere](https://atmospherejs.com/?q=reaction) and [GitHub](https://github.com/hamidsardar/).
 
 We welcome pull requests to the latest `development` version branch.
 
 # Feedback
-**GitHub Issues** on the [Reaction](https://github.com/reactioncommerce/reaction) project are the best way to let us know about a feature request, or to report an issue.
+**GitHub Issues** on the [Reaction](https://github.com/hamidsardar/reaction) project are the best way to let us know about a feature request, or to report an issue.
 
-Join us on our **[Gitter chat room](https://gitter.im/reactioncommerce/reaction)** to discuss, communicate, and share community support.
+Join us on our **[Gitter chat room](https://gitter.im/hamidsardar/reaction)** to discuss, communicate, and share community support.
