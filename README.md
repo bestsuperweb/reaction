@@ -20,7 +20,7 @@ To install Meteor + Reaction, and start the latest release:
 
 ```bash
 curl https://install.meteor.com | /bin/sh
-git clone https://github.com/reactioncommerce/reaction.git
+git clone https://github.com/hamidsardar/reaction.git
 cd reaction && git checkout master # default branch is development
 ./reaction
 ```
